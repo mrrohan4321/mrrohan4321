@@ -20,8 +20,7 @@
 **[AB Electricals Website](https://ab-electrical.netlify.app/)**
 Full storefront site for our family showroom — built from scratch, deployed via Git/Netlify, with a custom warm amber theme and animated UI touches.
 
-**[Safar website]((https://safar-adfree.netlify.app/))**
-A music website with an Indian truck-art (Horn OK Please) aesthetic — animated SVG truck, ad-free YouTube-based player, and a persistent playlist.
+**[Safar](https://safar-adfree.netlify.app/)** An ad-free, installable music player — streams through YouTube's own embedded player with no extra ads or tracking, built around the idea that every road has a song of its own.
 
 **Mini Games Collection**
 A set of classic games in Python — Rock Paper Scissors, Memory Match, Tic-Tac-Toe with a minimax AI, and a full Chess engine using alpha-beta pruning.
