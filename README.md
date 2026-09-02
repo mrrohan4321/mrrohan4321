@@ -17,10 +17,10 @@
 
 ### 🚀 Projects
 
-**[AB Electricals Website](https://ab-electricals-mahishadal.netlify.app)**
+**[AB Electricals Website](https://ab-electrical.netlify.app/)**
 Full storefront site for our family showroom — built from scratch, deployed via Git/Netlify, with a custom warm amber theme and animated UI touches.
 
-**Safar**
+**[Safar website]((https://safar-adfree.netlify.app/))**
 A music website with an Indian truck-art (Horn OK Please) aesthetic — animated SVG truck, ad-free YouTube-based player, and a persistent playlist.
 
 **Mini Games Collection**
