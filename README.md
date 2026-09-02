@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan 👋</h1>
 
 <p align="center">
-  CS student • Building things for the web • Running a family electronics business on the side
+  CS student • Building things for the web • Running my family electricals business on the side
 </p>
 
 ---
