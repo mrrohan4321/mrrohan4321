@@ -1,8 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Rohan%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20student%20•%20Building%20things%20for%20the%20web&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=header" width="100%" />
+
+<h1 align="center">Hi, I'm Rohan 👋</h1>
+
+<p align="center">
+  CS student • Building things for the web • Running my family business on the side
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9800&center=true&vCenter=true&width=620&lines=CS+student+exploring+ML+%26+algorithms;Building+AI+tools+for+small+business;Running+a+family+electricals+showroom;Filmmaking+%7C+Photography+%7C+Music" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9800&center=true&vCenter=true&width=620&lines=CS+student+exploring+ML+%26+algorithms;Building+web+%26+AI+projects;Family+business%3A+A+B+Electricals;Filmmaking+%7C+Photography+%7C+Music" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,10 +23,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student, exploring **algorithms, ML, and AI applications for small business**
-- ⚡ Help run **A B Electricals**, an authorised **Havells** dealer and electrical/lighting showroom in Mahishadal, West Bengal — I handle the website and social media
-- 🎬 Also into **filmmaking, photography, and music** on the side
-- 🌱 Currently exploring **AI-powered tools** (WhatsApp bots, inventory forecasting) for retail
+- 🎓 Computer Science student, exploring algorithms, ML, and AI applications for small business
+- ⚡ **A B Electricals** is my family business, an authorized Havells dealer and electrical/lighting showroom in Mahishadal, West Bengal — I handle the website and social media
+- 🎬 Also into filmmaking, photography, and music on the side
+- 🌱 Currently exploring AI-powered tools (WhatsApp bots, inventory forecasting) for retail
 
 ---
 
@@ -40,7 +46,7 @@ Group 7 deep learning project — classifies ECG heartbeats as Normal or Abnorma
 [![Demo](https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/or2yRLIMrqw)
 
 #### ⚡ AB Electricals Website
-Full storefront site for our family showroom — built from scratch in plain HTML/CSS/JS, deployed via Git/Netlify, with a custom warm amber theme, cursor-reactive spotlight, animated UI touches and embedded Google Reviews. Showcases the brands we carry (Havells, Bajaj, Maru, Diamond Lights).
+Full storefront site for my father's showroom — built from scratch in plain HTML/CSS/JS, deployed via Git/Netlify, with a custom warm amber theme, cursor-reactive spotlight, animated UI touches and embedded Google Reviews. Showcases the brands we carry (Havells, Bajaj, Maru, Diamond Lights).
 
 [![Live Site](https://img.shields.io/badge/Live_Site-FF9800?style=for-the-badge&logo=netlify&logoColor=white)](https://ab-electrical.netlify.app/)
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrrohan4321/ab-electricals-website)
@@ -52,7 +58,7 @@ An ad-free, installable music player — streams through YouTube's own embedded 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrrohan4321/safar-site)
 
 #### 🔫 Keystroke Gunshot
-A system-wide desktop app in Python (pynput + pygame) that plays a gunshot sound on every keystroke in any app. The sound is synthesised in code, so no audio file is needed, and it never records or sends what you type.
+A system-wide desktop app in Python (pynput + pygame) that plays a gunshot sound on every keystroke in any app. The sound is synthesized in code, so no audio file is needed, and it never records or sends what you type.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrrohan4321/keystroke-gunshot)
 
