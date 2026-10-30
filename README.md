@@ -80,15 +80,6 @@ A system-wide desktop app in Python (pynput + pygame) that plays a gunshot sound
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrrohan4321&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrohan4321&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📫 Reach Me
 
 Feel free to check out my repositories below or get in touch!
